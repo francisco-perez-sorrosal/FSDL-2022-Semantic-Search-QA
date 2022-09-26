@@ -2344,7 +2344,7 @@ testing = ["func-timeout", "jaraco.itertools", "pytest (>=6)", "pytest-black (>=
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.8,<3.9.7 || >3.9.7,<4.0"  # this is because the streamlit version
-content-hash = "13680a583bb2001f4c141b486fcd03473c8222c55fa0128f2e182a45a0a2e7dc"
+content-hash = "ce3a598caf81647efe86e2e803550993d3f64fd7d0054cba5c8b1999c18f1cd7"
 
 [metadata.files]
 absl-py = [

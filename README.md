@@ -71,4 +71,9 @@ You will receive the responses below and a form to optionally provide feedback a
 - v3.8.0 doesn't show depency problems
 - If an error similar to `...may have been in progress in another thread when fork() was called` shows in your Mac, do `export OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES`
 
+## JCloud
 
+```sh
+jc login
+jc deploy ./src/semantic_search_qa/server/server.yml
+```
